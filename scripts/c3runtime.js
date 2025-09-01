@@ -2214,7 +2214,7 @@ self.C3_JsPropNameTable = [
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
 			const f1 = p._GetNode(1).GetBoundMethod();
-			return () => f0(f1(), "qa-files.poki.com");
+			return () => f0(f1(), "wuhard.github.io");
 		},
 		p => {
 			const f0 = p._GetNode(0).GetBoundMethod();
